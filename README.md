@@ -59,3 +59,5 @@ Features:
 - Easy access admin to access players information easily
 - Fully working and customizable gold gains
 - Automatic medals (choose how often)
+- All hacks patched
+- Activation register system
