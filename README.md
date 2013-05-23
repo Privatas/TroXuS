@@ -18,3 +18,8 @@ For localhost go here:
 [localhost/installer] (localhost/installer)
 Or here if you made a folder where you saved TroXuS:
 [localhost/troxus/installer] (localhost/troxus/installer)
+
+For webhosting go here:
+[http://yourdomain.com/installer] (http://yourdomain.com/installer)
+Or here if you made a folder where you saved TroXuS:
+[http://yourdomain.com/troxus/installer] (http://yourdomain.com/troxus/installer)
