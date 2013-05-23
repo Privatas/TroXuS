@@ -6,7 +6,7 @@ Contributors
 
 This is a list of the contributors who created and/or helped to create this clone:
 
-- [Privatas/PHP | Mail: privatas98@gmail.com | Skype: nykas981](http://troxus.tt.lt/)
+- [Privatas/PHP](http://troxus.tt.lt/) | [Mail: privatas98@gmail.com](mailto:privatas98@gmail.com) | [Skype: nykas981]()
 
 
 How to install
